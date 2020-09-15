@@ -15,9 +15,13 @@
         <module>spring-boot-helloworld</module>
         <module>spring-boot-properties</module>
         <module>spring-boot-actuator</module>
-        <module>spring-boot-admin-client</module>
-        <module>spring-boot-admin-client</module>
         <module>spring-boot-admin</module>
+        <module>spring-boot-logback</module>
+        <module>spring-boot-log-aop</module>
+        <module>spring-boot-exception-handler</module>
+        <module>spring-boot-template-freemarker</module>
+        <module>spring-boot-template-thymeleaf</module>
+        <module>spring-boot-template-beetl</module>
     </modules>
 
     <properties>
