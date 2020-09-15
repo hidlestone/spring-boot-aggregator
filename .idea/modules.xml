@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-actuator/spring-boot-actuator.iml" filepath="$PROJECT_DIR$/spring-boot-actuator/spring-boot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/spring-boot-admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/spring-boot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-server/spring-boot-admin-server.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-server/spring-boot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-aggregator.iml" filepath="$PROJECT_DIR$/spring-boot-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-dynamic-datasource/spring-boot-dynamic-datasource.iml" filepath="$PROJECT_DIR$/spring-boot-dynamic-datasource/spring-boot-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-flyway/spring-boot-flyway.iml" filepath="$PROJECT_DIR$/spring-boot-flyway/spring-boot-flyway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" filepath="$PROJECT_DIR$/spring-boot-helloworld/spring-boot-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-https/spring-boot-https.iml" filepath="$PROJECT_DIR$/spring-boot-https/spring-boot-https.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" filepath="$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" />
+    </modules>
+  </component>
+</project>
