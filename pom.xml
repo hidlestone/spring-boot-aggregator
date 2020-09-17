@@ -22,6 +22,11 @@
         <module>spring-boot-template-freemarker</module>
         <module>spring-boot-template-thymeleaf</module>
         <module>spring-boot-template-beetl</module>
+        <module>spring-boot-template-enjoy</module>
+        <module>spring-boot-upload</module>
+        <module>spring-boot-orm-jdbctemplate</module>
+        <module>spring-boot-cache-redis</module>
+        <module>spring-boot-cache-ehcache</module>
     </modules>
 
     <properties>

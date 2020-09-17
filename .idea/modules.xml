@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/spring-boot-admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-client/spring-boot-admin-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-server/spring-boot-admin-server.iml" filepath="$PROJECT_DIR$/spring-boot-admin/spring-boot-admin-server/spring-boot-admin-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-aggregator.iml" filepath="$PROJECT_DIR$/spring-boot-aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache-ehcache/spring-boot-cache-ehcache.iml" filepath="$PROJECT_DIR$/spring-boot-cache-ehcache/spring-boot-cache-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cache-redis/spring-boot-cache-redis.iml" filepath="$PROJECT_DIR$/spring-boot-cache-redis/spring-boot-cache-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-dynamic-datasource/spring-boot-dynamic-datasource.iml" filepath="$PROJECT_DIR$/spring-boot-dynamic-datasource/spring-boot-dynamic-datasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-exception-handler/spring-boot-exception-handler.iml" filepath="$PROJECT_DIR$/spring-boot-exception-handler/spring-boot-exception-handler.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-flyway/spring-boot-flyway.iml" filepath="$PROJECT_DIR$/spring-boot-flyway/spring-boot-flyway.iml" />
@@ -14,10 +16,13 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-https/spring-boot-https.iml" filepath="$PROJECT_DIR$/spring-boot-https/spring-boot-https.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-log-aop/spring-boot-log-aop.iml" filepath="$PROJECT_DIR$/spring-boot-log-aop/spring-boot-log-aop.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-logback/spring-boot-logback.iml" filepath="$PROJECT_DIR$/spring-boot-logback/spring-boot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-orm-jdbctemplate/spring-boot-orm-jdbctemplate.iml" filepath="$PROJECT_DIR$/spring-boot-orm-jdbctemplate/spring-boot-orm-jdbctemplate.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" filepath="$PROJECT_DIR$/spring-boot-properties/spring-boot-properties.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-template-beetl/spring-boot-template-beetl.iml" filepath="$PROJECT_DIR$/spring-boot-template-beetl/spring-boot-template-beetl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-template-enjoy/spring-boot-template-enjoy.iml" filepath="$PROJECT_DIR$/spring-boot-template-enjoy/spring-boot-template-enjoy.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-template-freemarker/spring-boot-template-freemarker.iml" filepath="$PROJECT_DIR$/spring-boot-template-freemarker/spring-boot-template-freemarker.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-template-thymeleaf/spring-boot-template-thymeleaf.iml" filepath="$PROJECT_DIR$/spring-boot-template-thymeleaf/spring-boot-template-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-upload/spring-boot-upload.iml" filepath="$PROJECT_DIR$/spring-boot-upload/spring-boot-upload.iml" />
     </modules>
   </component>
 </project>

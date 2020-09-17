@@ -9,6 +9,8 @@
         <module name="spring-boot-actuator" />
         <module name="spring-boot-admin-client" />
         <module name="spring-boot-admin-server" />
+        <module name="spring-boot-cache-ehcache" />
+        <module name="spring-boot-cache-redis" />
         <module name="spring-boot-dynamic-datasource" />
         <module name="spring-boot-exception-handler" />
         <module name="spring-boot-flyway" />
@@ -16,10 +18,13 @@
         <module name="spring-boot-https" />
         <module name="spring-boot-log-aop" />
         <module name="spring-boot-logback" />
+        <module name="spring-boot-orm-jdbctemplate" />
         <module name="spring-boot-properties" />
         <module name="spring-boot-template-beetl" />
+        <module name="spring-boot-template-enjoy" />
         <module name="spring-boot-template-freemarker" />
         <module name="spring-boot-template-thymeleaf" />
+        <module name="spring-boot-upload" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
@@ -28,6 +33,8 @@
       <module name="spring-boot-admin-client" target="1.8" />
       <module name="spring-boot-admin-server" target="1.8" />
       <module name="spring-boot-aggregator" target="1.8" />
+      <module name="spring-boot-cache-ehcache" target="1.8" />
+      <module name="spring-boot-cache-redis" target="1.8" />
       <module name="spring-boot-dynamic-datasource" target="1.8" />
       <module name="spring-boot-exception-handler" target="1.8" />
       <module name="spring-boot-flyway" target="1.8" />
@@ -35,10 +42,13 @@
       <module name="spring-boot-https" target="1.8" />
       <module name="spring-boot-log-aop" target="1.8" />
       <module name="spring-boot-logback" target="1.8" />
+      <module name="spring-boot-orm-jdbctemplate" target="1.8" />
       <module name="spring-boot-properties" target="1.8" />
       <module name="spring-boot-template-beetl" target="1.8" />
+      <module name="spring-boot-template-enjoy" target="1.8" />
       <module name="spring-boot-template-freemarker" target="1.8" />
       <module name="spring-boot-template-thymeleaf" target="1.8" />
+      <module name="spring-boot-upload" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
